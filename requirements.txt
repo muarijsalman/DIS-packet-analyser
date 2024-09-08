@@ -1,0 +1,5 @@
+PyQt5
+dpkt 
+scapy
+matplotlib
+numpy
